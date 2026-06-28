@@ -1,0 +1,1 @@
+Teste CLI workspace create remoto
